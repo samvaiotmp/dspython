@@ -43,4 +43,4 @@ numbers = [1,2,3,4,5,6,7,8,9,10]
 result = recursive_binary_search(numbers, 13)
 verify(result)
 
-#just updated binary_search SVN
+#just updated binary_search -- redone
